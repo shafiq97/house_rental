@@ -334,7 +334,7 @@ if (!$imgresult) {
           <ul class="row">
             <li class="col-lg-12 col-sm-12 col-xs-3"><a href="index.php">Home</a></li>
             <li class="col-lg-12 col-sm-12 col-xs-3"><a href="about.php">About</a></li>
-            <li class="col-lg-12 col-sm-12 col-xs-3"><a href="contact.html">Contact</a></li>
+            <li class="col-lg-12 col-sm-12 col-xs-3"><a href="contact.php">Contact</a></li>
           </ul>
         </div>
 

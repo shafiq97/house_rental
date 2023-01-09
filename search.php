@@ -98,7 +98,7 @@ else {header ("Location: index.php"); }
               <ul class="nav navbar-nav navbar-right">
                <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
             <!-- #Nav Ends -->
@@ -261,7 +261,7 @@ else {header ("Location: index.php"); }
                    <ul class="row">
                 <li class="col-lg-12 col-sm-12 col-xs-3"><a href="index.php">Home</a></li>
                 <li class="col-lg-12 col-sm-12 col-xs-3"><a href="about.php">About</a></li>
-                <li class="col-lg-12 col-sm-12 col-xs-3"><a href="contact.html">Contact</a></li>
+                <li class="col-lg-12 col-sm-12 col-xs-3"><a href="contact.php">Contact</a></li>
               </ul>
             </div>
 
